@@ -9,7 +9,7 @@ This project replicates a real-world fintech payment flow including amount input
 
 🚀 Live Demo
 
-👉 https://yourusername.github.io/gamemart-pay-ui/
+👉 https://github.com/S2zxx0zxx/GameMart-Payment-Gateway/
 
 ---
 
